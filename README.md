@@ -2,6 +2,11 @@
 A sample of Stripe payments implementation in ASP.NET Web Forms
 
 For this sample, you can download and copy. 
+Warning, there is some trash (useless) code in here, due to my various attempts to learn Stripe.... so make sure to pay attention to only these files below:
+*CheckoutTest.aspx.cs
+*Script.js
+*WebConfig
+
 To make your life easier, make sure you do the following changes:
 1. Change the stripe keys in web config file
 2. Create a database in Microsoft SQL Management studio, and create the tables in this directory (Customers, and Subscriptions)
