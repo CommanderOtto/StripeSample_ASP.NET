@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripeTutorial", "StripeTutorial\StripeTutorial.csproj", "{26D20C25-E413-476A-8214-2E84993814EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D20C25-E413-476A-8214-2E84993814EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D20C25-E413-476A-8214-2E84993814EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D20C25-E413-476A-8214-2E84993814EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D20C25-E413-476A-8214-2E84993814EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACDE418-5DF8-428E-9378-7CC3B37220A5}
+	EndGlobalSection
+EndGlobal
